@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.tadapp.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. GalaCase</name>
 
@@ -67,12 +67,12 @@
 	<icon src="res/ios/icon/04cd290d573f3c3330721416a47f088f.png" width="87" height="87" />
 	<icon src="res/ios/icon/d2c0804fa4a37908fd5d1239641f190b.png" width="167" height="167" />
 
-	<splash src="res/ios/screen/adb68f5fd1d380118cfad978ca0d088d.png" />
-    <splash src="res/ios/screen/202ed7f911eee0c4e565e02e534b6cbf.png" />
-    <splash src="res/ios/screen/f48eb257c9e55db10aea23490bf51f52.png" />
-    <splash src="res/ios/screen/14ab62d06137aeb729de031370b79869.png" />
-    <splash src="res/ios/screen/72ddf19fe9d6f751adc570b722b837f7.png" />
-    <splash src="res/ios/screen/f887a131964374c0342160034e801f6f.png" />
+	<splash src="res/ios/screen/5e674936dbab171259257ca892f4a0ed.png" />
+    <splash src="res/ios/screen/f5cc296d91a2cd653875ea4ca8e813f1.png" />
+    <splash src="res/ios/screen/1fbeed3b65054ce5eb13a02e0dc5b8e8.png" />
+    <splash src="res/ios/screen/20b82fe9d90d8764f0604b5ef7e5adf0.png" />
+    <splash src="res/ios/screen/75c50b97a1f7147672edab09952fd186.png" />
+    <splash src="res/ios/screen/e9449916c616fd61db53bdbe061ec8d7.png" />
 </platform>
 
 <platform name="winphone">
